@@ -71,7 +71,7 @@ sup {
 }
 
 img {
-    border-style: none
+    border-style: none;
 }
 
 button, input, optgroup, select, textarea {
@@ -264,7 +264,7 @@ header .container nav {
 }
 
 .logo {
-    width: 160px;
+    width: 260px;
     height: auto;
 }
 
@@ -273,7 +273,7 @@ header .container nav {
     margin: auto 0;
     padding: 0;
     list-style-type: none;
-    font-size: var(--font-size-small);
+    font-size: var(--font-size-medium);
     text-transform: lowercase;
     font-weight: 700;
     font-family: var(--font-family-body);
@@ -439,6 +439,7 @@ main .grid {
     text-align: center;
     font-family: var(--font-family-body);
     margin: 2rem 0;
+    font-size: 2rem;
 }
 
 main .grid .item {
@@ -582,6 +583,7 @@ input:focus {
     margin: 1.5rem auto;
 }
 
+
 .input-label {
     position: relative;
 }
@@ -621,6 +623,7 @@ footer nav {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    font-size: var(--font-size-large);
 }
 
 footer .container {
@@ -650,6 +653,7 @@ footer p {
     width: 100%;
     text-align: center;
     opacity: 0.35;
+    font-size: .9rem;
 }
 
 @media (max-width: 480px) {

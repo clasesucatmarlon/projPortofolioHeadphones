@@ -50,12 +50,14 @@
   content: "\e907";
 }
 .holberton_school-icon-ic_facebook:before {
+  font-size: 2rem;
   content: "\e908";
 }
 .holberton_school-icon-ic_hearing:before {
   content: "\e909";
 }
 .holberton_school-icon-ic_instagram:before {
+  font-size: 2rem;
   content: "\e90a";
 }
 .holberton_school-icon-ic_laptop:before {
@@ -71,6 +73,7 @@
   content: "\e90e";
 }
 .holberton_school-icon-ic_twitter:before {
+  font-size: 2rem;
   content: "\e90f";
 }
 .holberton_school-icon-ic_video:before {
